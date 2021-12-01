@@ -1,0 +1,8 @@
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding
+map J zoom out
+map K zoom in
+map P print
+map D toggle-page-mode
+map <C-i> recolor <CR>
